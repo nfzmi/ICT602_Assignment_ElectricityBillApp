@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/layout_activity_about.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/drawable_bg_profile_circle.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/drawable/bg_profile_circle.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/drawable_bg_result_box.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/drawable/bg_result_box.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/layout_activity_history.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/layout/activity_history.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/drawable_ic_arrow_back.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/drawable_student_photo.png.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/drawable/student_photo.png"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/drawable_ic_list.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/drawable/ic_list.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/layout_item_bill_record.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/layout/item_bill_record.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.electricitybill.app-merged_res-31:/drawable_bg_result_box.xml.flat",
+        "source": "com.example.electricitybill.app-main-33:/drawable/bg_result_box.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/drawable_ic_info.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/layout_activity_detail.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-merged_res-31:/drawable_ic_bolt.xml.flat",
+        "source": "/Users/nazmifaiz/.gradle/daemon/8.2/com.example.electricitybill.app-main-33:/drawable/ic_bolt.xml"
+    },
+    {
+        "merged": "com.example.electricitybill.app-merged_res-31:/drawable_bg_profile_circle.xml.flat",
+        "source": "com.example.electricitybill.app-main-33:/drawable/bg_profile_circle.xml"
+    }
+]
