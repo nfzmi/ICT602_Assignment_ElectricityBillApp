@@ -50,7 +50,7 @@
     <string name="course_info">ICT602 - Mobile Technology</string>
     <string name="app_description">Electric Bill Calculator is a mobile application designed to help users estimate their monthly electricity bill based on Malaysia\'s tiered electricity tariff system. Users can input the billing month, electricity units consumed (in kWh), and an applicable rebate percentage to calculate the total charges and final cost after rebate. All calculation records are stored locally and can be viewed, edited, or deleted via the Bill History page.</string>
     <string name="copyright_text">© 2026 Nazmi Faiz All Rights Reserved.</string>
-    <string name="github_url">https://github.com/yourusername/ElectricityBillApp</string>
+    <string name="github_url">https://github.com/nfzmi/ICT602_Assignment_ElectricityBillApp</string>
     <string name="about_how_to_use_title">How to Use This App</string>
     <string name="about_how_to_use">1. On the Home screen, select the billing month from the dropdown.\n2. Enter the number of electricity units used (kWh) - must be between 1 and 1000.\n3. Adjust the rebate percentage slider (0% to 5%) according to your eligibility.\n4. Tap \"Calculate Bill\" to view the Total Charges and Final Cost on the same page.\n5. The result is automatically saved to the local database.\n6. Tap \"View Bill History\" to see a list of all saved records (Month and Final Cost).\n7. Tap any record in the history list to view full details.\n8. In the Details page, you can edit the record\'s information and save changes, or delete the record entirely.\n9. Tap \"About\" from the home page to view app information and this guide again.</string>
 
